@@ -1,4 +1,4 @@
-# Live-Weather
+# Realtime Weather
 ## Skills used
 Javascript, HTML, CSS, interacting with an API
 ## Summary

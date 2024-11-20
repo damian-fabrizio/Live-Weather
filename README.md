@@ -6,5 +6,9 @@ This application fetches live data from an API and displays weather information 
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/8a79aed2-dcec-4ff1-94fc-9c838f255816">
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/8355d184-277a-4caa-b3b2-ccedf3cf6453">
+## Video Demo
+https://github.com/user-attachments/assets/911b2b11-5298-48d8-9619-af08fe4d4b83
+
+
 
 
